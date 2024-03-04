@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - Matt_Maslow_Resume_Official.pdf
+    - Matt_Maslow_CV.pdf
+
+website:
+  title: "Matthew J Maslow"
+  description: "Personal Page"
+  open-graph:
+    locale: en_US
+  navbar:
+    right:
+      - text: "Home"
+        href: index.html
+      - text: "Papers"
+        href: papers
+      - text: "Presentations"
+        href: presentations
+      - text: "CV"
+        href: Matt_Maslow_CV.pdf
+      - text: "Resume"
+        href: Matt_Maslow_Resume_Official.pdf
+format:
+  html:
+    theme: vapor

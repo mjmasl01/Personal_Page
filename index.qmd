@@ -1,0 +1,55 @@
+---
+title: "Matt Maslow"
+image: me.png
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/matthew-maslow/"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/mjmasl01/personal_page.git"
+    - text: Email
+      icon: envelope
+      url: "mailto:mjmaslow13@gmail.com"
+    - text: CV
+      icon: file
+      url: Matt_Maslow_CV.pdf
+    - text: Resume
+      icon: graduation-cap
+      url: Matt_Maslow_Resume_Official.pdf
+comments: false
+--- 
+
+
+
+-----------------------------------------------------------------------------
+
+
+
+Hi, I'm Matt, a Data Science student at [St. Lawrence University](https://www.stlawu.edu/offices/math-computer-science-and-statistics){target="_blank"}
+
+
+
+
+-----------------------------------------------------------------------------
+
+Here's a little bit of my work....
+
+{{< video https://youtu.be/8QltdQkpPSM?si=yGapqRAAsFYXKMij>}}
+
+
+And...
+
+-----------------------------------------------------------------------------
+
+```{mermaid}
+flowchart LR
+  A[Chillin] --> B(Like)
+  B --> C{A}
+  C --> D((Villain))
+```
+
+
+
