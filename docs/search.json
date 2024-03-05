@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "Matt Maslow",
     "section": "",
-    "text": "Hi, I’m Matt, a Data Science student at St. Lawrence University\n\nHere’s a little bit of my work….\n\nAnd…\n\n\n\n\n\n\nflowchart LR\n  A[Chillin] --&gt; B(Like)\n  B --&gt; C{A}\n  C --&gt; D((Villain))"
+    "text": "Hi, I’m Matt, a Data Science student at St. Lawrence University\n\nHere’s a little bit of my work….\n\nAnd…\n\n\n\n\n\n\nflowchart LR\n  A[Chillin] --&gt; B(Like)\n  B --&gt; C{A}\n  C --&gt; D((Villain))\n\n\n\n\n\n\n\n# Set up your GitHub repository URL\nrepo_url &lt;- \"https://github.com/mjmasl01/Personal_Page.git\"\n\n# Add the GitHub repository as the remote origin\nsystem(paste(\"git remote add origin\", repo_url))\n\n# Push changes to the main branch (or your preferred branch)\nsystem(\"git push -u origin main\")\n\n\n# Function to publish on GitHub Pages\npublish_on_github_pages &lt;- function(branch = \"main\") {\n  # Set up the GitHub Pages URL\n  gh_pages_url &lt;- paste0(\"https://github.com/mjmasl01/Personal_Page/settings/pages\")\n\n  # Open the GitHub Pages settings in the default web browser\n  browseURL(gh_pages_url)\n}\n\n# Call the function to open GitHub Pages settings\npublish_on_github_pages()"
   }
 ]

@@ -53,7 +53,31 @@ flowchart LR
 
 
 
+```{R}
+# Set up your GitHub repository URL
+repo_url <- "https://github.com/mjmasl01/Personal_Page.git"
 
+# Add the GitHub repository as the remote origin
+system(paste("git remote add origin", repo_url))
+
+# Push changes to the main branch (or your preferred branch)
+system("git push -u origin main")
+```
+
+```{R}
+# Function to publish on GitHub Pages
+publish_on_github_pages <- function(branch = "main") {
+  # Set up the GitHub Pages URL
+  gh_pages_url <- paste0("https://github.com/mjmasl01/Personal_Page/settings/pages")
+
+  # Open the GitHub Pages settings in the default web browser
+  browseURL(gh_pages_url)
+}
+
+# Call the function to open GitHub Pages settings
+publish_on_github_pages()
+
+```
 
 
 
