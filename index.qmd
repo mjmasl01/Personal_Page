@@ -9,7 +9,7 @@ about:
       url: "https://www.linkedin.com/in/matthew-maslow/"
     - text: GitHub
       icon: github
-      url: "https://github.com/mjmasl01/personal_page.git"
+      url: "https://github.com/mjmasl01/mjmasl20_DATA450.git"
     - text: Email
       icon: envelope
       url: "mailto:mjmaslow13@gmail.com"
