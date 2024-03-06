@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Matt Maslow",
     "section": "",
-    "text": "Hi, I’m Matt, a Data Science student at St. Lawrence University\n\nHere’s a little bit of my work….\n\nAnd…\nShiny app: US Alcohol Consumption\n\n\n\n\n\n\nflowchart LR\n  A[Chillin] --&gt; B(Like)\n  B --&gt; C{A}\n  C --&gt; D((Villain))"
+    "text": "Hi, I’m Matt, a Data Science student at St. Lawrence University\n\nHere’s a little bit of my work….\n\nAnd…\nShiny app: US Alcohol Consumption"
   },
   {
     "objectID": "SYE/index.html",
