@@ -40,9 +40,13 @@ Here's a little bit of my work....
 {{< video https://youtu.be/8QltdQkpPSM?si=yGapqRAAsFYXKMij>}}
 
 
-And...
+-----------------------------------------------------------------------------
 
 Shiny app: [US Alcohol Consumption](http://mjmasl01.shinyapps.io/us_alcohol_consumption){target="_blank"}
+
+-----------------------------------------------------------------------------
+
+co-author: [link to article](https://authors.elsevier.com/c/1ikJf_NyRSCPHg){target="_blank"}
 
 
 -----------------------------------------------------------------------------
