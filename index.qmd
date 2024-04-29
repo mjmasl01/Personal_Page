@@ -42,7 +42,10 @@ Here's a little bit of my work....
 
 -----------------------------------------------------------------------------
 
-Shiny app: [US Alcohol Consumption](http://mjmasl01.shinyapps.io/us_alcohol_consumption){target="_blank"}
+Shiny apps: 
+  * [US Alcohol Consumption](http://mjmasl01.shinyapps.io/us_alcohol_consumption){target="_blank"}
+  
+  * [March Madness Analysis](https://mjmasl01.shinyapps.io/Data343_March_Madness_Analysis/){target="_blank"} 
 
 -----------------------------------------------------------------------------
 
